@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anurag aka "Da Lazy Coder"
+- 👋 Hi, I’m Anurag aka "anuSama"
 - 👀 As you may already know I'm interested in PROGRAMMING, and with great progamming skills come great responsibilties.(JK me bad send help)
 - 🌱 I’m currently learning skills related to game dev(Unreal engine, etc) and I plan to learn OpenGL and other related technology.
 - :computer: Currently I am working on my game. I have experience in C++ and python and I plan to make more projects.
